@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/108448353/201391229-619efd6d-4c86-4cd8-bb0c-bcb7aae3c7a2.png)
 <h1 align="center">Hi 👋, I'm Robind Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-rd&label=Profile%20views&color=0e75b6&style=flat" alt="k-rd" /> </p>
 
