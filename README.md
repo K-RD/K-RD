@@ -65,13 +65,13 @@
 
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/ctoic/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-rd&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/k-rd/github-profile-trophy)
 </div>
 
 </div>
 </div>
 
- ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 
 <div align="center"> 
@@ -99,8 +99,21 @@
   </table>
 </div>
 
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
+<div align="center">
+  
+</div>
+<div>
+<h2 align="center"> Badges</h2>
+  
+[![An image of @krd386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krd386)](https://holopin.io/@krd386)
+  
+</div>
+
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 <!-- Old Code -->
 <!--
