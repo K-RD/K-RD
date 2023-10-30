@@ -24,6 +24,10 @@
   <a href="https://twitter.com/robind_06">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  <a href="https://wa.me/919279663593">
+    <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
   </div>
 </div>
 
@@ -77,7 +81,7 @@
 <div align="center"> 
   <h2>Languages and Tools:</h2>
    
-   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,javascript,bash,bootstrap,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 
 
